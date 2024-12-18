@@ -1,0 +1,29 @@
+name: Sorting
+version: '1.0-SNAPSHOT'
+main: ru.olejka.sorting.Sorting
+api-version: '1.20'
+commands:
+  screate:
+    description: 'Creates display'
+  sdelete:
+    description: 'Deletes display'
+  sshuffle:
+    description: 'Shuffles display'
+  ssort-bubble:
+    description: 'Bubble sort'
+  ssort-insertion:
+    description: 'Insertion sort'
+  ssort-selection:
+    description: 'Selection sort'
+  ssort-quick:
+    description: 'Quick sort'
+  ssort-merge:
+    description: 'Merge sort'
+  ssort-heap:
+    description: 'Heap sort'
+  ssort-msd:
+    description: 'MSD sort'
+  ssort-lsd:
+    description: 'LSD sort'
+  ssort-counting:
+    description: 'Counting sort'
